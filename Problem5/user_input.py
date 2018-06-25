@@ -44,4 +44,4 @@ day= input ("what is the day")
 # TODO 6. Ask for the year and store it in a variable
 year= input ("what is the year")
 # TODO 7. Print the name with the date of birth as shown above.
-print (first, last, "was born on", mo, day, year)
+print ("%s %s was born on %s %s, %s."% ( first, last, mo, day, year))
