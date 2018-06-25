@@ -28,3 +28,9 @@ print # blank line
 # TODO Option 2b: If you completed 2a you may have noticed that all but one line has the form
 #                'Never gonna _____ you ____' with the second blank optional. Can you rewrite the program
 #                using variables? How will you handled 'say goodbye'?
+
+root = "Happy birthday"
+print (root, "to you")
+print (root,"to you")
+print (root, "dear someone")
+print (root, "to you")
